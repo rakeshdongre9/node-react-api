@@ -9,7 +9,6 @@ connectDB();
 
 const PORT = 7070;
 
-
 // Middleware
 //app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
